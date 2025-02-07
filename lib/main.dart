@@ -825,7 +825,7 @@ class GadgetsSearchDelegate extends SearchDelegate {
           },
         );
       },
-    );
+    ); 
   }
 
   @override
